@@ -1,5 +1,8 @@
 _repo: Travels-into-North-America-Volume-2-of-3_72103
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72103-h/images/new-cover.jpg
 creator:
   authors:
   - agent_name: Forster, Johann Reinhold
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56243
     wikipedia: https://en.wikipedia.org/wiki/Pehr_Kalm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72103#Travels-into-North-America-Volume-2-of-3
 gutenberg_issued: '2023-11-12'
 identifiers:
   gutenberg: '72103'
